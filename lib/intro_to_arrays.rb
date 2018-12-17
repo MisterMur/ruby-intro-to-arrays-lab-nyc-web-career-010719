@@ -3,7 +3,7 @@ def last_element(arr)
 end
 
 def first_element(arr)
-  arr.first
+  arr.[0]
   
 end
 
@@ -21,3 +21,14 @@ def instantiate_new_array
   []
 end
 
+def length_of_array(arr)
+  arr.length
+end
+
+def first_element_with_array_methods(arr)
+  arr.first
+end
+
+def last_element_with_array_methods(arr)
+  arr.last
+end

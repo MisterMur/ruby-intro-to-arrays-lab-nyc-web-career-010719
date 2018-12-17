@@ -3,7 +3,7 @@ def last_element(arr)
 end
 
 def first_element(arr)
-  arr.[0]
+  arr[0]
   
 end
 

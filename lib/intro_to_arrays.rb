@@ -17,8 +17,7 @@ def array_with_two_elements
 end
 
 def instantiate_new_array
-  
-  []
+  array.new
 end
 
 def length_of_array(arr)

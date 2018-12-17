@@ -13,7 +13,7 @@ def third_element(arr)
 end
 
 def array_with_two_elements
-  arr[0,1]
+  arr=[0,1]
 end
 
 def instantiate_new_array
